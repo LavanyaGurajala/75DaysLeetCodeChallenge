@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/LavanyaGurajala/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Interactive
 |  |
